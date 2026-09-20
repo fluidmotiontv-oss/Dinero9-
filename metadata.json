@@ -1,0 +1,6 @@
+{
+  "name": "Deniro 9 (D9) Digital-Holographic Currency Suite",
+  "description": "Design specification, photorealistic visual prompts, structural WebGL shader manifests, and real-time 3D interactive viewer for the Deniro 9 temporal currency hybrid within the Dragon 9 framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
